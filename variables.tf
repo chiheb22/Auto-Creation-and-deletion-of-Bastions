@@ -31,5 +31,5 @@ variable "BastionResourceGroup" {
 variable "SubscriptionId" {
   type     = string
   description = "The subscription id of the Azure subscription."
-  default = "5b07a1bf-3f42-47f7-8a53-85d5b7796157"
+  default = "X-X-X-X-X"
 }
